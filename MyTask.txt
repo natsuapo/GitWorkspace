@@ -1,0 +1,4 @@
+Daily Task:
+1. Dijkstra algorithm;
+2. Behaviour geography;
+
